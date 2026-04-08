@@ -1,0 +1,6 @@
+i write my current work here 
+
+
+make file system universel. so evey commnd what mess with memory can work indpently. ( completed )
+
+now working on error, flags, terminal. no more extra freatures. eveythinh is becoming messy. 
