@@ -1,6 +1,7 @@
-i write my current work here 
+I'm writing my current work here.
 
+I've made the file system universal so every command that interacts with memory can work
+independently. This part is completed.
 
-make file system universel. so evey commnd what mess with memory can work indpently. ( completed )
-
-now working on error, flags, terminal. no more extra freatures. eveythinh is becoming messy. 
+I am now working on errors, flags, and the terminal itself. I'm not adding any more extra features for now
+because everything is starting to get messy.
