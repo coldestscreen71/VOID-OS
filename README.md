@@ -114,9 +114,7 @@ python main.py
 📌 Contributors
 
 Rim Mahato 
-GitHub: https://github.com/coldestscreen71
-Nipfswd 
-GitHub: https://github.com/Nipfswd
+GitHub: https://github.com/coldestscreen71 Nipfswd GitHub: https://github.com/Nipfswd
 
 ---
 
