@@ -1,10 +1,10 @@
-🖥️ VOID-OS
+#🖥️ VOID-OS
 
 A terminal-based pseudo operating system built in Python, featuring a custom command interpreter, virtual file system, executable scripts, and ASCII-based media rendering.
 
 ---
 
-🚀 Overview
+#🚀 Overview
 
 VOID-OS is a simulation of an operating system environment inside the terminal.
 It allows users to interact with a structured file system, execute custom commands, and even render images and videos as ASCII.
@@ -13,7 +13,7 @@ This project focuses on system design concepts like abstraction, command parsing
 
 ---
 
-✨ Features
+#✨ Features
 
 - 🔐 Universal password authentication system 
 - 🧠 Custom command interpreter
@@ -28,7 +28,7 @@ This project focuses on system design concepts like abstraction, command parsing
 
 ---
 
-🔐 Authentication
+#🔐 Authentication
 
 VOID-OS uses a universal password system before terminal access is granted.
 
@@ -38,31 +38,31 @@ This acts as a lightweight boot/login simulation layer for the virtual operating
 
 ---
 
-🧪 Example Commands
+#🧪 Example Commands
 
-# File system
+//File system
 mkdir test
 cd test
 touch hello.txt
 write hello.txt Hello World
 cat hello.txt
 
-# Executable scripts
+//Executable scripts
 touch script.exe
 edit script.exe
 execute script.exe
 
-# Image rendering
+//Image rendering
 img photo.jpg art
 view art.img
 
-# Video rendering
+//Video rendering
 vid video.mp4 movie
 play movie.vid
 
 ---
 
-🏗️ Project Structure
+#🏗️ Project Structure
 
 VOID-OS/
 │
@@ -74,7 +74,7 @@ VOID-OS/
 
 ---
 
-⚙️ How It Works
+#⚙️ How It Works
 
 VOID-OS is built around layered architecture:
 
@@ -87,7 +87,7 @@ User Input → Command Parser → Commands → Filesystem API → Data Layer
 
 ---
 
-🧠 Concepts Used
+#🧠 Concepts Used
 
 - Command parsing ("shlex")
 - File system simulation
@@ -98,13 +98,13 @@ User Input → Command Parser → Commands → Filesystem API → Data Layer
 
 ---
 
-▶️ Running the Project
+#▶️ Running the Project
 
 python main.py
 
 ---
 
-⚠️ Notes
+#⚠️ Notes
 
 - This is a simulated OS, not a real one
 - Some features are experimental (especially video rendering)
@@ -112,7 +112,7 @@ python main.py
 
 ---
 
-🚧 Future Improvements
+#🚧 Future Improvements
 
 - Path system ("/home/user/file.txt")
 - Command piping ("|", "&&")
@@ -122,7 +122,7 @@ python main.py
 
 ---
 
-📌 Contributors
+#📌 Contributors
 
 Rim GitHub: https://github.com/coldestscreen71 
 
@@ -130,7 +130,7 @@ Nipfswd GitHub: https://github.com/Nipfswd
 
 ---
 
-🗿 Final Note
+#🗿 Final Note
 
 This project started as a simple idea and evolved into a full system simulation.
 It reflects learning, experimentation, and building from scratch.
