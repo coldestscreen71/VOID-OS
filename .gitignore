@@ -1,0 +1,38 @@
+## python caches -- compiled files will take up space and make the repository
+## lag.
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions -- might happen, who knows?
+*.so
+
+## Ignore the venv's because they're full of shit
+venv/
+.venv/
+.env/
+
+## just in case we ever decide to package the project
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDE's
+.vscode/
+
+# Pycharm // IntelliJ
+.idea/
+
+## general editor stuff
+*.swp
+*.swo
+
+## You're not getting my secret github key😏
+*.env
+# We can change this if we ever add .env.example
+.env.* 
+
+# often time useless but i dont like pushing jupyter checkpoints -- even though
+# we dont use jupyter.
+.ipynb_checkpoints/
