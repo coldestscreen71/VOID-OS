@@ -15,6 +15,7 @@ This project focuses on system design concepts like abstraction, command parsing
 
 ✨ Features
 
+- 🔐 Universal password authentication system 
 - 🧠 Custom command interpreter
 - 📁 Virtual file system (directories, files, metadata)
 - ⚙️ Executable ".exe" scripts
@@ -24,6 +25,16 @@ This project focuses on system design concepts like abstraction, command parsing
 - 📜 Command history (arrow key navigation)
 - ❗ Centralized error handling system
 - 🎨 Colored terminal output
+
+---
+
+🔐 Authentication
+
+VOID-OS uses a universal password system before terminal access is granted.
+
+Default password: `KALI96`
+
+This acts as a lightweight boot/login simulation layer for the virtual operating system environment.
 
 ---
 
