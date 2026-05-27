@@ -111,10 +111,12 @@ python main.py
 
 ---
 
-📌 Author
+📌 Contributors
 
-Gopal Mahato
+Rim Mahato 
 GitHub: https://github.com/coldestscreen71
+Nipfswd 
+GitHub: https://github.com/Nipfswd
 
 ---
 
