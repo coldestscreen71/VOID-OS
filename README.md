@@ -41,23 +41,35 @@ This acts as a lightweight boot/login simulation layer for the virtual operating
 # 🧪 Example Commands
 
 //File system
+
 mkdir test
+
 cd test
+
 touch hello.txt
+
 write hello.txt Hello World
+
 cat hello.txt
 
 //Executable scripts
+
 touch script.exe
+
 edit script.exe
+
 execute script.exe
 
 //Image rendering
+
 img photo.jpg art
+
 view art.img
 
 //Video rendering
+
 vid video.mp4 movie
+
 play movie.vid
 
 ---
